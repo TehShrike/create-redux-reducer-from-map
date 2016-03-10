@@ -1,0 +1,23 @@
+{
+  "name": "create-redux-reducer-from-map",
+  "version": "1.0.0",
+  "description": "My personal preference for eliminating the Redux switch statements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/create-redux-reducer-from-map.git"
+  },
+  "keywords": [
+    "redux",
+    "reducer"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/create-redux-reducer-from-map/issues"
+  },
+  "homepage": "https://github.com/TehShrike/create-redux-reducer-from-map#readme"
+}
