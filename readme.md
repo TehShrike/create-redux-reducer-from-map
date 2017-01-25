@@ -14,7 +14,7 @@ const arithmeticReducer = makeReducer({
 
 # makeReducer(mapOfFunctions[, initialState])
 
-Returns a reducer appropriate for Redux.  Takes an map of action types to functions taking `(state, action)`.
+Returns a reducer appropriate for Redux.  Takes a map of action types to functions taking `(state, action)`.
 
 # License
 
